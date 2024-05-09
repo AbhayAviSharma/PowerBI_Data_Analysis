@@ -22,4 +22,4 @@ Our goal is to create a comprehensive, interactive dashboard that not only illus
 - The dashboard built in Power BI showcased key metrics, time-based analysis, interactive loan data exploration, and visualizations of transaction and account data. Overall, this project enhanced skills in data cleaning, modeling, DAX usage, dashboard design, and storytelling with data insights in the banking sector.
 
 # Link to the project :
-https://drive.google.com/file/d/1M1BLLBanM13pV2PLvVZ7aHdeSk8uDvta/view?usp=sharing
+## https://drive.google.com/file/d/1M1BLLBanM13pV2PLvVZ7aHdeSk8uDvta/view?usp=sharing
